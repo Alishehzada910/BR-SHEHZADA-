@@ -1,6 +1,6 @@
-# Priyansh-Bot-V2
+# Shehzada-Bot-V2
 
-**Priyansh-Bot-V2** is a Facebook Messenger chatbot that runs with the help of your **Facebook account's appstate (cookies)**. This bot listens to your messages in Messenger and handles multiple useful commands.
+**shehzada-Bot-V2** is a Facebook Messenger chatbot that runs with the help of your **Facebook account's appstate (cookies)**. This bot listens to your messages in Messenger and handles multiple useful commands.
 
 ##
 
@@ -65,10 +65,10 @@ node index.js
 - You can use any one
 
 ```
-fca-priyansh
+fca-shehzada
 ```
 ```
-priyanshu-fca
+shehzada-fca
 ```
 ---
 
@@ -82,4 +82,4 @@ priyanshu-fca
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by [Priyansh Rajput](https://github.com/codedbypriyansh)
+Developed with ❤️ by [shehzada Rajput](https://github.com/codedbypriyansh)
