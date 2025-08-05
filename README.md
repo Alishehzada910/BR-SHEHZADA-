@@ -82,4 +82,4 @@ shehzada-fca
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by [shehzada Rajput](https://github.com/codedbypriyansh)
+Developed with ❤️ by [shehzada Ali](https://github.com/codedbypriyansh)
